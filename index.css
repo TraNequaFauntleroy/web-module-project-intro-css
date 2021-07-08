@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+.main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header h3 {
+    text-align: center;
+    position: relative;
+    top: 50px;
+    display: block;
+}
+
+header p {
+    display: block;
+    text-align: center;
+    width: 300px;
+}
+
+.header-nav {
+    margin-top: 20px;
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    display: block;
+    font-size: 60px;
+    margin-left: 30%;
+    position: relative;
+    top: -200px;
+}
+
+a {
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-size: 16px; 
+    display: inline-block;
+    text-align: center;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+}
+
+header img {
+    border-radius: 50%;
+    height: 300px;
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.icons div{
+    text-align: center;
+    
+}
+.icons img {
+    height: 100px;
+}
+
+.icons p {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.plan {
+    background: #FF764E;
+    width: 150px;
+}
+
+.learn {
+    background: #5ED3EB;
+    width: 150px;
+}
+
+.get {
+    background: #FFCD69;
+    width: 150px;
+
+}
+
+.text-container {
+    background: #DDB9A3;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 20px;;
+}
+
+.text-container p {
+    margin: 10px;
+}
+
+footer div {
+    background:#F9E7DC;
+    height: 100px;
+    text-align: center;
+    padding: 20px;
+    z-index: 20px;
+}
+
+footer img {
+    width: 100%;
+    height: 350px;
+}
+
+span {
+    font-weight: bold;
+    text-decoration: none;
+}
+ .fire p {
+     margin-bottom: 35px;
+ }
+
+ .truck p {
+     margin-bottom: 35px;
+ }
+
+ footer {
+     height: 500px;
+     background-image: url(footer_img.jpeg);
+     background-position: top;
+ }
+ 
